@@ -1,1 +1,0 @@
-CREATE TABLE titles(title_id varchar(5) primary key, title varchar(20));
